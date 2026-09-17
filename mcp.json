@@ -4,7 +4,7 @@
       "type": "http",
       "url": "https://mcp.learn.malkabruk.co.il/mcp",
       "headers": {
-        "Authorization": "Bearer tut_Kf79ztBz1AG4uMZdFHkr6G2birvJyM8a"
+        "Authorization": "XXXXX"
       }
     }
   }
